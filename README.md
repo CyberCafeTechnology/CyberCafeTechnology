@@ -2,7 +2,7 @@
 Olá e bem-vindo @ a nossa Empresa! Aqui, você encontrará uma coleção dos projetos em que temos, 
 e estamos desenvolvendo.
 
- ![GITHUB-CAPA](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUB-CAPA.gif) 
+ ![GITHUB-CAPA](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/Untitled%20design%20(3).gif) 
 
  
 <br><br>
