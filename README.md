@@ -1,5 +1,10 @@
 <h1>Cyber Cafe Technology - Development Enterprise 👋</h1> <br>
-Olá e bem-vindo ao nosso repositório! Aqui, você encontrará uma coleção dos projetos em que temos. 
+Olá e bem-vindo @ a nossa Empresa! Aqui, você encontrará uma coleção dos projetos em que temos, 
+e estamos desenvolvendo.
+
+ ![GITHUB-CAPA](https://github.com/DEV-Cafe096/CapaGitHub/blob/main/GITHUB-CAPA.gif) 
+
+ 
 <br><br>
 <div>
   <a href="https://github.com/CyberCafeTechnology">
